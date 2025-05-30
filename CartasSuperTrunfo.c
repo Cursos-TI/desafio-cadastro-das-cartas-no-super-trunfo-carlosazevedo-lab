@@ -37,6 +37,8 @@ int main() {
     printf("Pib: %f\n ", pib1);
     printf("Area: %f\n", area1);
 
+    //printf
+
     // Cadastro das Cartas:
     // Sugestão: Utilize a função scanf para capturar as entradas do usuário para cada atributo.
 
